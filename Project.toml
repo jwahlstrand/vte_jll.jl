@@ -1,0 +1,19 @@
+name = "vte_jll"
+uuid = "f4e46e81-162e-55ba-9ff1-e5c4c9f1d064"
+version = "0.74.2+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libtiff_jll = "89763e89-9b03-5906-acba-b20f662cd828"
+GTK4_jll = "6ebb71f1-8434-552f-b6b1-dc18babcca63"
+GnuTLS_jll = "0951126a-58fd-58f1-b5b3-b08c7c4a876d"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+Libdl = "1"
+GTK4_jll = "4.12.4"
+Libtiff_jll = "4.3.0"
+Artifacts = "1"

@@ -1,0 +1,110 @@
+[[vte]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d6b673359614aec68c71d76fbe057dcef0ffe6de"
+libc = "glibc"
+os = "linux"
+
+    [[vte.download]]
+    sha256 = "f45caf1f580ace0edd92a7870375e096a765e32f92c6c818e4eb7e83b8ba740c"
+    url = "https://github.com/jwahlstrand/vte_jll.jl/releases/download/vte-v0.74.2+0/vte.v0.74.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[vte]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b44fd80c9dfdf9bd4a6d8d2a08205517425bdcb1"
+libc = "glibc"
+os = "linux"
+
+    [[vte.download]]
+    sha256 = "3662981c1a5a244e52dd80f230ece65ae7c4aa6f941798f6368ea0f50f49cef6"
+    url = "https://github.com/jwahlstrand/vte_jll.jl/releases/download/vte-v0.74.2+0/vte.v0.74.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[vte]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e95ab85b286ea08df2b9725849683a402d7aba1c"
+libc = "glibc"
+os = "linux"
+
+    [[vte.download]]
+    sha256 = "efd3854c6a2d87c057d46080b0616549cba670ad1647b1d4d8a8f0d73dfff94b"
+    url = "https://github.com/jwahlstrand/vte_jll.jl/releases/download/vte-v0.74.2+0/vte.v0.74.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[vte]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "22a16b37d92f4ed32fdb4fbb9e08aa6fffc54975"
+libc = "glibc"
+os = "linux"
+
+    [[vte.download]]
+    sha256 = "4bd767af3e5dbf8721a9fdedc27218767c875d098370ed1d026ace63d314e509"
+    url = "https://github.com/jwahlstrand/vte_jll.jl/releases/download/vte-v0.74.2+0/vte.v0.74.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[vte]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2741bff81429863df4c01c8cd087c2b060ce3f7d"
+libc = "glibc"
+os = "linux"
+
+    [[vte.download]]
+    sha256 = "70063781096681b029d09a0e2ccf2b39f258401275bc0dce5428aa649c930024"
+    url = "https://github.com/jwahlstrand/vte_jll.jl/releases/download/vte-v0.74.2+0/vte.v0.74.2.i686-linux-gnu-cxx03.tar.gz"
+[[vte]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aeda342cd01b5eac8dc48ade9dd21f2ab1e2004d"
+libc = "glibc"
+os = "linux"
+
+    [[vte.download]]
+    sha256 = "2d257980d554c093b8e4df07127ac4f19b52454207ec37f2441bec89cd24e462"
+    url = "https://github.com/jwahlstrand/vte_jll.jl/releases/download/vte-v0.74.2+0/vte.v0.74.2.i686-linux-gnu-cxx11.tar.gz"
+[[vte]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dca34fd4025cb5b7ffa3135f028e83942d525c93"
+libc = "glibc"
+os = "linux"
+
+    [[vte.download]]
+    sha256 = "8c9d55e39dab2bff47e37ffad9ea1552b95a0230b72c761f803891265ea203d5"
+    url = "https://github.com/jwahlstrand/vte_jll.jl/releases/download/vte-v0.74.2+0/vte.v0.74.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[vte]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "05f197d8ed6324bc8e5d75ef32c8e59857d2ceb1"
+libc = "glibc"
+os = "linux"
+
+    [[vte.download]]
+    sha256 = "967c09941c2c1c609bcfc571611f553350e6b50188d5a3cebbdbd779f27257ee"
+    url = "https://github.com/jwahlstrand/vte_jll.jl/releases/download/vte-v0.74.2+0/vte.v0.74.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[vte]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0d31df8a8166974fa283911031b1ca063da0172c"
+libc = "glibc"
+os = "linux"
+
+    [[vte.download]]
+    sha256 = "3998f265f83a1025b9d9823f5189a996456832448fcdd4e886fb1b399609cbb5"
+    url = "https://github.com/jwahlstrand/vte_jll.jl/releases/download/vte-v0.74.2+0/vte.v0.74.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[vte]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b7c14dbfb80b30f4c6305f7b6ddaebd69ec8ca13"
+libc = "glibc"
+os = "linux"
+
+    [[vte.download]]
+    sha256 = "f020e9542a5b859b7f5c26765f48a6e385eca0243a56d326057c5fb5a4b9353d"
+    url = "https://github.com/jwahlstrand/vte_jll.jl/releases/download/vte-v0.74.2+0/vte.v0.74.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[vte]]
+arch = "x86_64"
+git-tree-sha1 = "3c81795f61af93fec45e746b27dc9cd39a00a365"
+os = "freebsd"
+
+    [[vte.download]]
+    sha256 = "25c0ba172264b2988b7f8fa6fb67cea4af20f80308f484c14fd554770f1d727d"
+    url = "https://github.com/jwahlstrand/vte_jll.jl/releases/download/vte-v0.74.2+0/vte.v0.74.2.x86_64-unknown-freebsd.tar.gz"
